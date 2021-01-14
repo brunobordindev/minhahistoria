@@ -12,11 +12,11 @@ Casamento com data marcada para 21/12/2021.
  Gosto de desafios e aventuras.
 
  ## Empreendedor
-<img src="https://user-images.githubusercontent.com/72177982/104601890-8c3fc680-5659-11eb-801e-878acdf80284.png" width="40%">
+<img src="https://user-images.githubusercontent.com/72177982/104601890-8c3fc680-5659-11eb-801e-878acdf80284.png" width="60%">
 <br/>
-<img src="https://user-images.githubusercontent.com/72177982/104602090-ca3cea80-5659-11eb-8a91-351fa0f2a2f1.png" width="40%">
+<img src="https://user-images.githubusercontent.com/72177982/104602090-ca3cea80-5659-11eb-8a91-351fa0f2a2f1.png" width="60%">
 <br/>
-<img src="https://user-images.githubusercontent.com/72177982/104602404-24d64680-565a-11eb-926b-821e8a9a2fbf.png" width="40%">
+<img src="https://user-images.githubusercontent.com/72177982/104602404-24d64680-565a-11eb-926b-821e8a9a2fbf.png" width="60%">
 
 Ex-proprietário do **Folks Pub Sertanejo** - ***Sorocaba***
 
