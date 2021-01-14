@@ -7,7 +7,7 @@ Sou noivo da Dra. Patricia Oliboni do Amaral médica *Endocrinologista*.
 Casamento com data marcada para 21/12/2021.
 
 ## Aventureiro de plantão
- <img src="https://user-images.githubusercontent.com/72177982/104601118-9d3c0800-5658-11eb-806e-0abdf8e949e6.png" width="30%"> <img src="https://user-images.githubusercontent.com/72177982/104601328-de341c80-5658-11eb-9e80-bfb412ce5a3c.png" width="40%"> <img src="https://user-images.githubusercontent.com/72177982/104601596-2d7a4d00-5659-11eb-848b-9dcb47c5df0d.png" width="30%">
+ <img src="https://user-images.githubusercontent.com/72177982/104601118-9d3c0800-5658-11eb-806e-0abdf8e949e6.png" width="30%"> <img src="https://user-images.githubusercontent.com/72177982/104601328-de341c80-5658-11eb-9e80-bfb412ce5a3c.png" width="30%"> <img src="https://user-images.githubusercontent.com/72177982/104601596-2d7a4d00-5659-11eb-848b-9dcb47c5df0d.png" width="30%">
 
  Gosto de desafios e aventuras.
 
