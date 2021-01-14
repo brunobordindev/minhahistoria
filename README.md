@@ -49,7 +49,4 @@ Alê Prates | Não negocie com a preguiça
  <br/>
 <img src="https://user-images.githubusercontent.com/72177982/104618552-9e2a6500-566b-11eb-8893-fd0a5dff3189.png" width="30%">
 
-## Parceiros de Trainee
-
-
 ### Até mais <img src="https://github.com/bruno28051988/bruno28051988/blob/main/hey.gif?raw=true" width="32px">
