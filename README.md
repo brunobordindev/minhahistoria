@@ -1,6 +1,7 @@
 # Minha Historia
 
 ## Quem sou eu:
+<img src="https://github.com/bruno28051988/minhahistoria/blob/main/02.jpeg?raw=true" width="20%">
 
 Meu nome é Bruno Rodrigues Bordin tenho 32 anos.
 - 💉 Médico Veterinário
