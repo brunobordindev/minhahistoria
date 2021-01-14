@@ -36,11 +36,11 @@ Meu nome é Bruno Rodrigues Bordin tenho 32 anos.
 
 ### 3 Tipos Livros que indico:
 
-Autor | Livro | Foto do Livro
--------|:-------:|:----------:
-Norm Brodsky & Bo Burlingham | A Sacada | <img src="https://user-images.githubusercontent.com/72177982/104642510-c45efd80-5689-11eb-886d-180def5a31cb.png" width="10%">
-Roberto Tranjan | O velho e o menino | <img src="https://user-images.githubusercontent.com/72177982/104643089-97f7b100-568a-11eb-824f-a8080c0a0665.png" width="10%">
-Alê Prates | Não negocie com a preguiça | <img src="https://user-images.githubusercontent.com/72177982/104642982-667ee580-568a-11eb-9275-f7198addaf7c.png" width="10%">
+Autor | Livro 
+-------|:-------:
+Norm Brodsky & Bo Burlingham | A Sacada 
+Roberto Tranjan | O velho e o menino 
+Alê Prates | Não negocie com a preguiça 
 
 ## Quem sou eu em fotos:
 
